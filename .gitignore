@@ -1,0 +1,18 @@
+myenv/
+env/
+*.env
+__pycache__/
+# db.sqlite3
+settings.py
+*.pyc
+migrations/
+media/
+*.vscode
+.history/
+debug.log
+.idea/workspace.xml
+installodbc.sh
+*.log
+installodbc.sh
+routing.py
+static/
