@@ -13,7 +13,7 @@ def send_notification(users=[],token_list=[], body='', title='', noti_type='',da
     device_token_list = list(device_token_list)
     #print('device_token_list',device_token_list)
     headers = {
-                "Authorization": "key=AAAAyCbCSyI:APA91bG077lVyuxOFwSJ-HkEX_TGiswuxFg0FjwTyIMVDYgyp34tmzcV51Z9vlthAHpX_v9It_SR6hKWFSFT94M0fhJVP10g3WXK6gL2-fmrEZ5d-voikH3gY-DoNTHR4MFQ8V4ab0_A",
+                "Authorization": "key=",
                 "Content-Type": "application/json"
             }   
     payload = {
